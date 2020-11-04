@@ -2,9 +2,8 @@
 <br />
 <p align="center">
   <a href="https://hyperskill.org/">
-    <img src="https://hyperskill.org/static/img/logo-white.918d4622.svg" alt="Logo" width="200" height="200">
+    <img src="https://hyperskill.org/static/img/logo-white.918d4622.svg" alt="Logo" width="80" height="80">
   </a>
-
   <h1 align="center">JetBrains Academy</h1>
   <h2 align="center">Python Developer Track</h2>
   <p align="center">
